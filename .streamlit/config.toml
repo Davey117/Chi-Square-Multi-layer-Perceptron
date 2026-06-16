@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#C53030"         # Deep Crimson for active action buttons and slider lines
+backgroundColor = "#FFFFFF"      # Crisp White application body background
+secondaryBackgroundColor = "#F7FAFC" # Balanced slate gray for sidebar and data arrays
+textColor = "#1A202C"            # Dark charcoal for readability
+font = "sans serif"
